@@ -1,4 +1,5 @@
 _repo: Henner_47443
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Cooper, Frederic Taber
@@ -8,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1245'
     url: http://www.gutenberg.org/2009/agents/1245
     wikipedia: http://en.wikipedia.org/wiki/Frederic_Taber_Cooper
+covers:
+- cover_type: archival
+  image_path: 47443-h/images/cover_small.jpg
 creator:
   author:
     agent_name: Crastre, François
@@ -17,6 +21,8 @@ creator:
     gutenberg_agent_id: '38328'
     url: http://www.gutenberg.org/2009/agents/38328
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47443#Henner
 gutenberg_bookshelf: Masterpieces in Colour
 gutenberg_issued: '2014-11-23'
 gutenberg_type: Text
